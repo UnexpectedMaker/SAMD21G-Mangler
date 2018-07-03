@@ -8,7 +8,11 @@ Inlcluded in this reposity:
 
 Enjoy!
 
+# Unexpected Maker
 http://twitter.com/unexpectedmaker
+
 https://www.facebook.com/unexpectedmaker/
+
 https://www.instagram.com/unexpectedmaker/
+
 https://www.tindie.com/stores/seonr/
