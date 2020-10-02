@@ -8,10 +8,18 @@ Inlcluded in this reposity:
 
 Enjoy!
 
-# Back me on Patreon?
+# Support me? 
 I love making and designing projects but sharing open source projects takes a lot of thought and time. I do it because I think it’s important to share knowledge and give back to the community like many have done before me.
 
-If you find this project useful or want to see more open source projects like it, please consider backing me on Patreon to say thanks!
+If you find this project useful or want to see more open source projects like it, please consider buying one of my products at
+
+https://unexpectedmaker.com/shop
+
+or
+
+https://www.tindie.com/stores/seonr/
+
+of by backing me on Patreon to say thanks!
 
 [![patreon](http://3sprockets.com.au/um/PatreonSmall.jpg)](https://www.patreon.com/unexpectedmaker)
 
@@ -23,5 +31,3 @@ http://twitter.com/unexpectedmaker
 https://www.facebook.com/unexpectedmaker/
 
 https://www.instagram.com/unexpectedmaker/
-
-https://www.tindie.com/stores/seonr/
